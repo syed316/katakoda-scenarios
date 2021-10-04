@@ -4,7 +4,7 @@ Download and Install Latest Maven
 
  Unzip the downlaoded file 
 
-    unzip apache-maven-3.8.3-bin.zip {{execute}}
+    unzip apache-maven-3.8.3-bin.zip{{execute}}
 
  Move the files to maven folder    
     
